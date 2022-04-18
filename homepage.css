@@ -1,0 +1,21 @@
+.title{
+    font-size: 40px;
+    margin-top: 0px;
+    margin-bottom: 150px;
+    text-align: center;
+}
+
+.prompt{
+    text-align: center;
+    font-size: 30px;
+}
+
+.buttons{
+  margin-top: 200px;
+  text-align: center;
+}
+
+.giphy-embed{
+    margin-bottom: 0;
+    margin-left: 650px;
+}
